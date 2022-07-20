@@ -14,12 +14,26 @@
 # Execution
 - The code will be in the Python file, all the plot of graph is annotate out
 
-# References 
+# model performance
+Regression Forest regression
+Accuracy score of 94%
+
+Decision tree regression
+Accuracy score of 89%
+
+Linear regression
+Accuracy score of 80%
+
+Decision tree classification
+Accuracy score of 2.5%
+
+Neural network classification
+Accuracy score of 0.65%
+
+kneighbours classification
+Accuracy score of 0.55%
+
+# References
 1. https://scikit-learn.org/
 2. https://numpy.org/doc/stable/user/index.html#user
-3. graphviz
-4. pydotplus
-5. pandas
-6. numpy
-7. matplotlib
-8. Kaggle
+3. https://matplotlib.org/stable/tutorials/index
