@@ -5,6 +5,7 @@ CP468 Project
 Author:  Zehao Liu/ Jialong Zhang
 ID:      193074000/190227130
 Email:  liux4000@mylaurier.ca/ zhan2713@mylaurier.ca
+Github： https://github.com/liuzehaoleon/468project
 __updated__ = '2022-07-19'
 -------------------------------------------------------
 """
@@ -27,8 +28,8 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error
 sns.set()
 
 
-path='./data/'
-train_data = pd.read_csv(path+'train-data.csv')
+URL="https://raw.githubusercontent.com/liuzehaoleon/468project/main/train-data.csv"
+train_data = pd.read_csv(URL)
 
 """ train_data.info()
 print(train_data.head())
