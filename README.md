@@ -15,22 +15,22 @@
 - The code will be in the Python file, all the plot of graph is annotate out
 
 # model performance
-Regression Forest regression
+##Regression Forest regression
 Accuracy score of 94%
 
-Decision tree regression
+##Decision tree regression
 Accuracy score of 89%
 
-Linear regression
+##Linear regression
 Accuracy score of 80%
 
-Decision tree classification
+##Decision tree classification
 Accuracy score of 2.5%
 
-Neural network classification
+##Neural network classification
 Accuracy score of 0.65%
 
-kneighbours classification
+##kneighbours classification
 Accuracy score of 0.55%
 
 # References
