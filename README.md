@@ -40,6 +40,9 @@ Accuracy score of 0.65%
 ### kneighbours classification
 Accuracy score of 0.55%
 
+# License
+MIT License
+
 # References
 1. https://scikit-learn.org/
 2. https://numpy.org/doc/stable/user/index.html#user
