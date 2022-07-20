@@ -36,4 +36,5 @@ Accuracy score of 0.55%
 # References
 1. https://scikit-learn.org/
 2. https://numpy.org/doc/stable/user/index.html#user
-3. https://matplotlib.org/stable/tutorials/index
+3. https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+4. https://matplotlib.org/stable/tutorials/index
