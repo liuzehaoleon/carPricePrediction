@@ -16,6 +16,11 @@
 
 # Installation and execution
  Install All the libraries first
+ -numpy
+ -pandas
+ -matplotlib
+ -seaborn
+ -sklearn
 
 # Dataset
 train-data.csv from
