@@ -1,4 +1,4 @@
-# CP468 project: Used Car Price Prediction
+# Used Car Price Prediction
 
 # Descripition
 - A huge amount of people desired to own a car to make their life convenience and the price of car is big concern of those afraid to be cheated and a lot of people waste a plenty of money on not bargain deals on used car. To address the issue, used car price prediction aims to analyzing the actual price of all used cars to avoid people be cheated.
